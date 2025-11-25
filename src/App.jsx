@@ -207,7 +207,7 @@ function App() {
               value={value}
               onChange={(e) => setValue(e.target.value)}
               onKeyDown={handleKey}
-              placeholder="Enter Your Word"
+              placeholder="Enter Your Word & Check If Chem Got It"
             />
 
             <button
