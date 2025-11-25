@@ -241,7 +241,7 @@ function App() {
       <img src="anu.png" alt="das" className="h-50 top-0 absolute right-1/4 max-sm:h-30"/>
       <img src="anuk.png" alt="das" className="h-60 top-1/2 absolute right-1/8 max-sm:h-30"/>
       <img src="cat.png" alt="das" className="h-30 top-40 absolute left-1/4 max-sm:h-15"/>
-      <img src="issan.png" alt="das" className="h-50 bottom-0 fixed left-1/6 max-sm:h-15 max-sm:bottom-40"/>
+      <img src="issan.png" alt="das" className="h-50 bottom-0 fixed left-1/8 max-sm:h-15 max-sm:bottom-40"/>
       <img src="kev.png" alt="das" className="h-15 bottom-0 fixed right-0"/>
     </div>
   );
